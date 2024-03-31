@@ -1,0 +1,24 @@
+# compiled output
+/dist/
+/tmp/
+
+# dependencies
+/node_modules/
+
+# IDEs and editors
+/.idea/
+/.vscode/
+
+# compiled TypeScript
+*.js
+*.js.map
+
+# compiled CSS
+*.css
+
+# logs and debugging
+npm-debug.log*
+
+# misc
+.DS_Store
+Thumbs.db
